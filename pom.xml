@@ -230,7 +230,7 @@
             <id>metrics</id>
             <build>
                 <plugins>
-                    <!-- CHECKSTYLE -->
+                    <!-- CHECKSTYLES -->
                     <!--<plugin>-->
                         <!--<artifactId>maven-checkstyle-plugin</artifactId>-->
                         <!--<version>2.9.1</version>-->
